@@ -53,7 +53,7 @@ To obtain the plots for density estimation, run the `density_estimation.R` file.
 
 ## References
 
-*A Causal Framework for Evaluating Deferring Systems*. Filippo Palomba*, Andrea Pugnana*, Jose M. Alvarez, and Salvatore Ruggieri. 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+*A Causal Framework for Evaluating Deferring Systems*. Filippo Palomba, Andrea Pugnana, Jose M. Alvarez, and Salvatore Ruggieri. International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
 
 If you make use of the code, the simulated data, or the evaluation framework in your work, please cite the following paper:
 
