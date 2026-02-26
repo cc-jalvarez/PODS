@@ -50,3 +50,25 @@ If you do not want to train the models from scratch, you can download them from 
 
 All the plots for the main paper and the tables can be retrieved from running the Jupyter notebooks in the `notebooks` folder.
 To obtain the plots for density estimation, run the `density_estimation.R` file.
+
+## References
+
+*A Causal Framework for Evaluating Deferring Systems*. Filippo Palomba*, Andrea Pugnana*, Jose M. Alvarez, and Salvatore Ruggieri. 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+
+If you make use of the code, the simulated data, or the evaluation framework in your work, please cite the following paper:
+
+<pre><code>
+@inproceedings{DBLP:conf/aistats/PalombaPAR25,
+  author       = {Filippo Palomba and
+                  Andrea Pugnana and
+                  Jos{\'{e}} M. {\'{A}}lvarez and
+                  Salvatore Ruggieri},
+  title        = {A Causal Framework for Evaluating Deferring Systems},
+  booktitle    = {{AISTATS}},
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {258},
+  pages        = {2143--2151},
+  publisher    = {{PMLR}},
+  year         = {2025}
+}
+</code></pre>
